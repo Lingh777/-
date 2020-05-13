@@ -1,2 +1,2 @@
-# This is the repository for web spider.
+# Repository for web spider.
  
